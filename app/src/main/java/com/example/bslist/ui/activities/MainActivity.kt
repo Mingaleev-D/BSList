@@ -1,7 +1,8 @@
-package com.example.bslist
+package com.example.bslist.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.bslist.R
 
 class MainActivity : AppCompatActivity() {
    override fun onCreate(savedInstanceState: Bundle?) {
